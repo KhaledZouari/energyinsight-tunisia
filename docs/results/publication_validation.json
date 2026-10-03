@@ -1,0 +1,18 @@
+{
+  "checked_at": "2026-10-03T19:41:04.554502+02:00",
+  "data_independent_regression_tests": {
+    "passed": 4,
+    "failed": 0,
+    "environment": "Existing pinned local Python 3.13.6 environment; not a fresh dependency install"
+  },
+  "source_syntax": "pass",
+  "readme_documentation_links": "pass",
+  "aggregate_metrics_consistency": "pass",
+  "publication_boundary": "No source dataset, individual predictions, data-bearing PBIX, model binaries or real credentials in the Git index",
+  "screenshots": "Four direct aggregate report captures visually inspected; no customer rows in published images",
+  "historical_full_verification": {
+    "successful_checks": 128,
+    "rerun_for_this_publication": false
+  },
+  "full_pipeline_retrained_for_publication": false
+}

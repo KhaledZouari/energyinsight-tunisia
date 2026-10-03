@@ -1,0 +1,13 @@
+{
+  "raw_invoice_rows": 4476749,
+  "electric_invoice_rows": 3079406,
+  "valid_electric_invoice_rows": 3079406,
+  "clients": 135493,
+  "months": 508,
+  "first_month": "1977-06-01",
+  "last_month": "2019-12-01",
+  "first_invoice_date": "1977-06-09",
+  "last_invoice_date": "2019-12-07",
+  "anomalies": 7566,
+  "clients_without_electricity": 678
+}

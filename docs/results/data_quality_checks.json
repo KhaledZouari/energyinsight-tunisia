@@ -1,0 +1,24 @@
+{
+  "clients": 135493,
+  "client_columns": 6,
+  "client_duplicates": 0,
+  "client_missing": 0,
+  "positive_clients": 7566,
+  "invoice_rows": 4476749,
+  "electric_rows": 3079406,
+  "gas_rows": 1397343,
+  "other_counter_rows": 0,
+  "electric_before_2005": 19909,
+  "electric_negative_totals": 0,
+  "electric_zero_totals": 229197,
+  "electric_sum": 2378852939,
+  "invalid_electric_dates": 0,
+  "missing_electric_consumption_cells": 0,
+  "test_confusion_recomputed": {
+    "tn": 22249,
+    "fp": 3202,
+    "fn": 860,
+    "tp": 652
+  },
+  "test_confusion_matches": true
+}

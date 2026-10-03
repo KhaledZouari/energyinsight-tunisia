@@ -1,0 +1,15 @@
+{
+  "model": "HistGradientBoosting",
+  "evaluation_set": "test",
+  "threshold": 0.6484454588571432,
+  "accuracy": 0.8493491080369395,
+  "precision": 0.16917488323819407,
+  "recall": 0.4312169312169312,
+  "f1_score": 0.24301155423033918,
+  "roc_auc": 0.7694716416377647,
+  "average_precision": 0.17274636378283179,
+  "tn": 22249,
+  "fp": 3202,
+  "fn": 860,
+  "tp": 652
+}

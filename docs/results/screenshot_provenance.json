@@ -1,0 +1,49 @@
+{
+  "captured_at": "2026-10-03T19:40:09.649657+02:00",
+  "source": "Actual local Power BI Desktop report: EnergyInsight_Tunisia_FINAL.pbix",
+  "desktop_version": "2.158.1177.0",
+  "method": "Direct screen-region captures after navigating the report tabs; original French report labels retained. No generated dashboard or altered result values.",
+  "dataset_refresh": "Report reopened with saved imported data; no new model training or database refresh performed for these captures.",
+  "images": {
+    "powerbi-overview.png": {
+      "page": "Billing overview",
+      "bounds": [
+        85,
+        242,
+        1391,
+        935
+      ],
+      "scope": "Aggregate KPIs and charts"
+    },
+    "powerbi-risk-segmentation.png": {
+      "page": "Customer risk analysis",
+      "bounds": [
+        85,
+        242,
+        609,
+        535
+      ],
+      "scope": "Aggregate category chart; individual inspection queue excluded"
+    },
+    "powerbi-risk-regions.png": {
+      "page": "Customer risk analysis",
+      "bounds": [
+        85,
+        540,
+        489,
+        935
+      ],
+      "scope": "Aggregate regional chart; individual inspection queue excluded"
+    },
+    "powerbi-model-performance.png": {
+      "page": "Model performance",
+      "bounds": [
+        85,
+        242,
+        1391,
+        887
+      ],
+      "scope": "Held-out metrics and confusion matrix"
+    }
+  }
+}

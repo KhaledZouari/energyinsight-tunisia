@@ -1,0 +1,2 @@
+model,evaluation_set,accuracy,precision,recall,f1_score,roc_auc,average_precision,tn,fp,fn,tp
+DummyClassifier_most_frequent,test,0.9439231539517116,0.0,0.0,0.0,0.5,0.056076846048288394,25451,0,1512,0
